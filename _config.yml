@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Gustav Vollo # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am pursuing MS degree in Business Analytics at David Eccles School of Business, University of Utah 
   <br><br>
-  Second description 
+  I am passionate about applying machine learning into the financial industry 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gustavvollo/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
