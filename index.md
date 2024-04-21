@@ -3,7 +3,7 @@
 ### Swire Coca-Cola Demand Prediction 
 #### [Project Overview:](https://github.com/GustavVollo/Demand_prediction_Swire-CC)
 
-<img src="/Capture2.JPG?raw=true"/>
+<img src="/Prediction_demand.png?raw=true"/>
 ---
 
 ### Home Credit Default
