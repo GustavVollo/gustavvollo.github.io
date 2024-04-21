@@ -1,5 +1,9 @@
 ## Portfolio
+---
+### Swire Coca-Cola Demand Prediction 
+#### [Project Overview:](https://github.com/GustavVollo/Demand_prediction_Swire-CC)
 
+<img src="/Capture2.JPG?raw=true"/>
 ---
 
 ### Home Credit Default
