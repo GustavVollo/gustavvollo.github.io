@@ -6,13 +6,14 @@
 
 #### [Project Overview:](https://github.com/GustavVollo/Home-Credit-Default-Project)
 
-- Home Credit is dedicated to providing credit services to unbanked and underbanked populations, often considered high-risk due to their lack of traditional credit history. Using predictive analytics, the company enhances risk assessment and promotes fair credit access, aiming to reduce loan defaults and include those usually excluded from the financial system.
+### Commitment to Financial Inclusion
+Home Credit is committed to providing credit services to unbanked and underbanked populations, who are often viewed as high-risk due to their lack of a traditional credit history. By leveraging predictive analytics, the company aims to enhance risk assessment and promote fair credit access, thus aiming to reduce loan defaults and include those usually excluded from the financial system.
 
-- Our predictive model, utilizing over 356,000 client records, revolutionizes loan applicant assessment. This approach reduces default risks and provides credit access to those without traditional financial histories, crucial for sustainable default rate reduction and economic resilience in emerging markets.
+### Innovations in Credit Assessment
+Our predictive model leverages data from over 356,000 client records to revolutionize the assessment of loan applicants. This innovative approach helps to mitigate default risks and extends credit access to individuals lacking traditional financial records. This is vital for maintaining sustainable default rates and enhancing economic resilience in emerging markets.
 
-- The project utilized the XGBoost algorithm for its high accuracy in outcome prediction. Despite high scores, the model initially underpredicted defaults, highlighting the need for a balanced representation of default cases. Our analysis identified key variables for loan repayment, focusing our data collection on the most predictive elements for future loan processing.
-
-- In sum, our project demonstrated the importance of balancing financial inclusion with risk management. It illustrated the relationship between increased financial inclusion and rising risk, emphasizing the need for a strategic approach in credit services.
+### Enhancements Through Advanced Analytics
+The project employs the XGBoost algorithm, known for its high accuracy in outcome prediction. Despite achieving high scores, the initial model underpredicted defaults, which underscored the need for a balanced representation of default cases in the data. Our analysis pinpointed key variables essential for loan repayment, refining our data collection focus on the most predictive elements for future loan processing. This approach underscores the balance between extending financial inclusion and managing associated risks.
 
 <img src="/Capture2.JPG?raw=true"/>
 
