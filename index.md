@@ -2,7 +2,7 @@
 ---
 ### Swire Coca-Cola Demand Prediction 
 #### [Project Overview: Enhancing Production Efficiency with ARIMA Modeling](https://github.com/GustavVollo/Demand_prediction_Swire-CC)
-The Swire Coca-Cola project focuses on forecasting demand for limited-release products using an ARIMA model to prevent overproduction and shortages. This approach optimizes production to match evolving consumer preferences, enhancing revenue growth and cost efficiency. The notebook details the modeling, data preparation, and validation efforts to support strategic decision-making.
+The Swire Coca-Cola project focuses on forecasting demand for limited-release products using an ARIMA model to prevent overproduction and shortages. This approach optimizes production to match evolving consumer preferences, enhancing revenue growth and cost efficiency. [The notebook](https://github.com/GustavVollo/Demand_prediction_Swire-CC/blob/main/Group1_FinalModel_r2.Rmd) details the modeling, data preparation, and validation efforts to support strategic decision-making.
 #### Risk Management in Forecasting: Balancing Over and Underforecasting Costs
 Based on the cost of underforecasting and overforecasting with a ratio of 1 to 5, meaning cost is 4 times higher with overforecasting, we used normal distribution confidence intervals to give Swire Coca-Cola our best predictions. We utilized the ARIMA model as the baseline. 
 
